@@ -1,0 +1,14 @@
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.exe.config
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.exe.manifest
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.application
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.exe
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.pdb
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.csprojAssemblyReference.cache
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.Form1.resources
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.Properties.Resources.resources
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.csproj.GenerateResource.cache
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.csproj.CoreCompileInputs.cache
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.exe.manifest
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.application
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.exe
+C:\Users\mert5\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.pdb
